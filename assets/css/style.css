@@ -6,6 +6,13 @@ body {
     text-align: center;
 }
 
+
+#footer {
+    background-color: beige;
+    height: 100px;
+}
+
+
 h1,
 h2 {
     color: darkred;
@@ -55,11 +62,11 @@ nav a:hover {
 #banner {
     width: 100%;
     height: auto;
-    background-color: white;
+    background-color: ;
 }
 
 #banner img {
-    width: 60%;
+    width: 100%;
     height: auto;
 }
 
@@ -83,4 +90,15 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+
+ul {
+    list-style: none;
+    text-align:center;
+}
+
+
+li {
+    padding-right: 35px;
 }
